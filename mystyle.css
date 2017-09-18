@@ -4,11 +4,7 @@
 	font-family: Roboto, Times, serif;
 
 }
-body{
-	background-image: url(background.png);
-	background-repeat: no-repeat;
-	background-size: 100%
-}
+
 h1,p{
 	text-align: center;
 	color: white;
